@@ -1,4 +1,4 @@
-# Germen Mende
+# Germen Benitez
 
 ## Course and Section
 
