@@ -1,5 +1,3 @@
-# Cloud Components
-
 # Cloud Infrastructure Components
 
 ## 1. Compute Resources
