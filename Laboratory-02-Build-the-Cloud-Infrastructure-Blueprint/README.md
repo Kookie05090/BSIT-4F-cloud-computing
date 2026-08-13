@@ -39,7 +39,7 @@ free -h
 df -h
 hostname
 hostname -I
-ip a
+ip a```
 
 ## Skills Learned
 
