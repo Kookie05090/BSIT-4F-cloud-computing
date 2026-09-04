@@ -32,3 +32,9 @@ Google Cloud can be used for artificial intelligence and machine learning, data 
 ## 7. Screenshot
 
 ![Google Cloud Homepage](screenshots/gcp-homepage.png)
+
+## 8. Sources
+
+- Google Cloud. Global Infrastructure.
+- Google Cloud. Google Cloud Console Documentation.
+- Google Cloud. Products and Services Documentation.
