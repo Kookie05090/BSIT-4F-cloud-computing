@@ -32,3 +32,9 @@ AWS can be used by enterprises for web and mobile applications, data storage, ba
 ## 7. Screenshot
 
 ![AWS Homepage](screenshots/aws-homepage.png)
+
+## 8. Sources
+
+- Amazon Web Services. AWS Global Infrastructure.
+- Amazon Web Services. AWS Management Console.
+- Amazon Web Services. AWS Services Documentation.
