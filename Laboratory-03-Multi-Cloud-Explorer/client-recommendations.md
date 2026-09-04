@@ -37,3 +37,16 @@
   1. **Amazon EC2 with Auto Scaling & ELB** (Scalable compute)
   2. **Amazon CloudFront** (Global Content Delivery Network)
   3. **Amazon Aurora** (High-performance relational database)
+
+---
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | AWS | Cost-effective entry, broad tool ecosystem (AWS Activate), and seamless scalability for fast growth[cite: 1]. |
+| **Enterprise Organization** | AWS / Azure | Deep enterprise security compliance, extensive infrastructure management, and robust hybrid capability[cite: 1]. |
+| **Microsoft Environment** | Microsoft Azure | Seamless integration with Active Directory/Entra ID, Office 365, and existing Windows Server licenses[cite: 1]. |
+| **AI / Machine Learning** | Google Cloud Platform | Industry-leading ML tools (Vertex AI), custom hardware (TPUs), and big data processing capabilities[cite: 1]. |
+| **Kubernetes Deployment** | Google Cloud Platform | Native integration and optimized performance with Google Kubernetes Engine (GKE), the creator of Kubernetes[cite: 1]. |
+| **Global Web Application** | AWS | Global infrastructure with broad region footprint, robust CDN (CloudFront), and automated scaling[cite: 1]. |
