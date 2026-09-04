@@ -32,3 +32,9 @@ Azure can be used for enterprise applications, Microsoft workloads, hybrid cloud
 ## 7. Screenshot
 
 ![Azure Homepage](screenshots/azure-homepage.png)
+
+## 8. Sources
+
+- Microsoft Azure. Azure Global Infrastructure.
+- Microsoft Learn. Azure Portal Documentation.
+- Microsoft Azure. Azure Services Documentation.
