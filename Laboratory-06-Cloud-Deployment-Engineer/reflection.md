@@ -1,1 +1,11 @@
+# Mission 6 Reflection: The Cloud Deployment Engineer
 
+This laboratory activity helped me understand how Docker Compose can simplify the deployment of a multi-container application. Instead of starting each container separately and manually configuring their connections, I was able to define the services in a single `docker-compose.yml` file. This made the deployment process more organized and easier to repeat. It also showed me how Infrastructure as Code can help cloud engineers manage their environments efficiently.
+
+I learned that YAML indentation is important because it defines the structure of the configuration. If I use incorrect indentation or tabs instead of spaces, Docker Compose may fail to read the file correctly. This can cause configuration errors and prevent the application from starting. Because of this, I learned to check my file carefully and validate it before deployment.
+
+Environment variables are also important because they provide configuration values to the containers. In this activity, the database name, username, password, and host were specified through environment variables. These settings allowed Nextcloud to connect to MariaDB. However, I also learned that passwords should be handled carefully and that real deployments should use stronger secrets-management practices rather than exposing credentials in configuration files.
+
+Deploying Nextcloud was a useful experience because it showed me how different components work together to provide a cloud storage service. The web application handled the user interface, while MariaDB provided database storage. Seeing the services work together helped me understand the practical value of a multi-tier architecture.
+
+Since Mission 1, my understanding of cloud computing has grown beyond simply learning about cloud services. I now have a better appreciation of how applications are configured, deployed, connected, and managed. This mission also helped me develop practical skills in Linux commands, YAML, Docker Compose, troubleshooting, and technical documentation. Overall, I learned that careful configuration and proper documentation are important parts of building and maintaining reliable cloud infrastructure.
